@@ -1,0 +1,4 @@
+video, audio, img, iframe, table, form {
+  width: 100%;
+  max-width: 100%;
+}
